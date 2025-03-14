@@ -1,0 +1,2 @@
+# SuperMarioKart64
+yes
